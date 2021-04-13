@@ -32,7 +32,7 @@ while True:
             list.remove(Robject)
             print("Remove Successfully")
         except ValueError:
-            print("Warning: Does not found" + Robject)
+            print("Warning: Does not found: " + Robject)
     elif Command == "\Reset":
         list.clear()
         print("Reset Successfully")
