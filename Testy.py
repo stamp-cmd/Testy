@@ -17,6 +17,7 @@ print(" \Show to Show list")
 print(" \Quit to Quit Program")
 print(" \Clear to clear terminal")
 print(" \Detect to count Element is list")
+print(" \Rand to Random object from choice")
 
 while True:
     Command = input(">>> ")
